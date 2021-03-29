@@ -49,7 +49,7 @@
 <a href="https://github.com/jainamoswal">
 <img width="50" src="https://raw.githubusercontent.com/jainamoswal/jainamoswal/main/Assets/github.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="mailto:admin@jainam.me">
+<a href="mailto:me@jainam.me">
 <img width="50" src="https://raw.githubusercontent.com/jainamoswal/jainamoswal/main/Assets/mail.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://t.me/jainamoswal">
